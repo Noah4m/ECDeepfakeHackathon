@@ -20,7 +20,7 @@ from src.models import load_efficientnet_b0
 # CONFIGURATION
 # ============================================================================
 
-HF_TOKEN = "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"
+HF_TOKEN = HF_TOKEN (see .env file)
 DATASET_NAME = "aurigin/TVM_dataset"
 CACHE_DIR = "./hf_cache"
 SUBMISSION_PATH = "./submission/submission.csv"
